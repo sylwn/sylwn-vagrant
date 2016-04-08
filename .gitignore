@@ -1,0 +1,6 @@
+#Keep the project directory 
+/projects/*
+!/projects/.gitkeep
+
+# vragrant VM
+.vagrant
