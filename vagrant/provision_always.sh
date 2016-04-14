@@ -7,3 +7,4 @@ sudo cp /vagrant/vagrant/apache_vhosts/* /etc/apache2/sites-enabled/
 
 echo "============================== Reboot Apache"
 sudo service apache2 restart
+

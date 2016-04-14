@@ -4,3 +4,4 @@
 
 # vragrant VM
 .vagrant
+/nbproject/*
